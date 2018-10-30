@@ -1,0 +1,80 @@
+name: hotpesa
+description: hotel app
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# Read more about versioning at semver.org.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  material_design_icons_flutter: 2.7.94
+  carousel_pro: ^0.0.13
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+     - images/01.jpg
+     - images/02.jpg
+     - images/03.jpg
+     - images/04.jpg
+     - images/05.jpg
+     - images/06.jpg
+     - images/07.jpg
+     - images/08.jpg
+     - images/09.jpg
+     - images/10.jpg
+     - images/11.jpg
+     - images/12.jpg
+     - images/13.jpg
+     - images/14.jpg
+     - images/15.jpg
+     - images/16.jpg
+     - images/17.jpg
+     - images/18.jpg
+     - images/19.jpg
+     - images/accom/a1.jpg
+     - images/accom/a4.jpg
+     - images/accom/a6.jpg
+     - images/accom/a8.jpg
+     - images/elders/m1.jpg
+     - images/elders/m2.jpg
+     - images/elders/m3.jpg
+     - images/elders/m4.jpg
+     - images/drinks/d1.jpg
+     - images/drinks/d2.jpg
+     - images/drinks/d3.jpg
+     - images/drinks/d4.jpg
+     - images/drinks/d5.jpg
+     - images/drinks/d6.jpg
+     - images/drinks/d7.jpg
+     - images/drinks/d8.jpg
+     - images/drinks/d9.jpg
+     - images/drinks/d10.jpg
+     - images/drinks/d12.jpg
+     - images/drinks/d11.jpg
+
